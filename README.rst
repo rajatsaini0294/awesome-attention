@@ -8,7 +8,7 @@ Incredible Attention
     
     .. image:: images/ECA-NET_hue.svg
     
-    .. image:: images/ECA-NET_2.svg
+    .. image:: images/ECA-NET_3.svg
 
   
 
